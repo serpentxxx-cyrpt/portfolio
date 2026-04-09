@@ -1,4 +1,11 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Portfolio
+
+My Computer Science Portfolio built with Next.js, Tailwind CSS, and GSAP. 
+
+## Deployment
+This project is automatically deployed to GitHub Pages via GitHub Actions.
+
+**Live Site:** [https://serpentxxx-cyrpt.github.io/portfolio/](https://serpentxxx-cyrpt.github.io/portfolio/)
 
 ## Getting Started
 
