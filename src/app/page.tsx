@@ -153,7 +153,7 @@ return (
       </div>
 
       <div className="pt-4 text-xs font-mono text-muted-foreground">
-        Built with Next.js & GSAP | © 2024 Tridibesh Sen
+        Built with Next.js & GSAP | © 2026 Tridibesh Sen
       </div>
     </div>
   </div>
